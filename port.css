@@ -1,0 +1,112 @@
+.mfp{
+    width: 30%;
+    height: 30%;
+}
+.welcome{
+    margin-top: 50;
+    margin-bottom: 40;
+    color: #009688;
+;
+}
+.im{
+    color:#26C6DA;
+    margin-top: 100;
+}
+.name{
+    margin-top: -20;
+    font-size: 50px;
+    margin-bottom: 10;
+    color:#26C6DA;
+    margin-left: 50;
+}
+.img2{
+    width: 50%;
+}
+.button{
+    padding: 5;
+    width: 150;
+    height: 50;
+    background-color: rgb(4, 4, 98);
+
+}
+.download{
+    width: 35;
+}
+.break1{
+    color: #26C6DA;
+    padding: 20;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.details1{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.portbox1,.portbox2{
+    border: 1px solid white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.online{
+    color: #26C6DA;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.buttt{
+    margin-right: 20px;
+}
+.exper{
+    margin-left: 50px;
+    justify-content: space-between ;
+}
+
+.education{
+    margin-top: 25%;
+    text-align: center;
+}
+.ed{
+    color: #26C6DA;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.ind,.year{
+    font-size: smaller;
+    color: rgb(129, 131, 131);
+}
+.cwm{
+    color:white;
+    margin-top: 50px;
+    margin-bottom:40px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.contactt{
+    border: 1px solid rgb(62, 62, 62);
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 100px;
+}
+.submit{
+    text-align: right;
+    color: #009688;
+}
+.cont{
+    margin-bottom: 30px;
+}
+
+.btn1{
+    background-color: #009688;
+}
+
+.foot{
+    margin-top: 60px;
+    text-align: center;
+    color:white;
+}
